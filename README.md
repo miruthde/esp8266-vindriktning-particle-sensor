@@ -77,6 +77,12 @@ At 3.3V its noise is barely noticeable from 50 cm away.
 
 ![3.3v](./img/3.3v.jpg)
 
+according the fact that the sensor data aren't that exact after reducing the Voltage down to 3.3V.
+It could be a working solution to remove a little part of the senor fan.
+The fan is very little and scratch sometime his housing.
+
+![fanpart](./img/fanpart.jpg)
+
 Having the Fan not connected at all was also tried but proved to mess up all readings completely.
 
 
